@@ -1,4 +1,8 @@
 # Recuperador de archivos JPEG 
+![C](https://img.shields.io/badge/Language-C-A8B9CC.svg)
+![Memory Management](https://img.shields.io/badge/Focus-Memory%20Management-green.svg)
+![Binary Data](https://img.shields.io/badge/Data-card.raw-orange.svg)
+![Harvard CS50](https://img.shields.io/badge/Course-CS50%20Harvard-red.svg)
 
 Este proyecto es una solución al reto técnico propuesto por la Universidad de Harvard de su curso **CS50: Introduction to Computer Science**.
 
