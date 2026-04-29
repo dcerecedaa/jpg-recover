@@ -1,4 +1,4 @@
-# Recuperador de archivos JPEG (CS50x)
+# Recuperador de archivos JPEG 
 
 Este proyecto es una solución al reto técnico propuesto por la Universidad de Harvard de su curso **CS50: Introduction to Computer Science**.
 
