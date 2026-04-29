@@ -1,4 +1,4 @@
-# Recuperador de archivos JPEG 
+# 📂 Recuperador de archivos JPEG 
 ![C](https://img.shields.io/badge/Language-C-A8B9CC.svg)
 ![Memory Management](https://img.shields.io/badge/Focus-Memory%20Management-green.svg)
 ![Binary Data](https://img.shields.io/badge/Data-card.raw-orange.svg)
