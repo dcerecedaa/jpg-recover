@@ -28,4 +28,16 @@ Para resolver este problema, implementé una solución en **C** que demuestra co
 - Librerías estándar: `stdio.h`, `stdlib.h`, `stdint.h`
 
 ---
+
+## 🤝 Contribuciones
+
+Este proyecto está abierto a sugerencias y feedback. Si tienes ideas de mejora o encuentras algún bug, no dudes en abrir un issue.
+
+---
+
+## 👨‍💻 Autor
+
+David Cereceda Pérez  
+[GitHub](https://github.com/dcerecedaa) | [LinkedIn](https://linkedin.com/in/david-cereceda-perez-3ba0962b6)
+
 *Este proyecto forma parte del curso de CS50 de Harvard University.*
